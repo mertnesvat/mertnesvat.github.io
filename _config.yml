@@ -1,9 +1,18 @@
 # Setup
-title: Home
-url: http://mertnesvat.github.io
+title: Mert Nesvat
+url: https://mertnesvat.com
 paginate: 1
 baseurl: ""
 permalink: pretty
+
+# Name of your site (displayed in the header)
+name: Mert Nesvat
+
+# Short bio or description (displayed in the header)
+description: Experimenting with mobile apps. 
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://pbs.twimg.com/profile_images/1313236138488987652/C3hTFTyo_400x400.jpg
 
 # Gems
 plugins:
