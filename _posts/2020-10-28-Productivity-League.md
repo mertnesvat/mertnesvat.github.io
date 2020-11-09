@@ -9,7 +9,7 @@ Productivity League is a mobile app for makers who wants have accountability par
 [Appstore](https://apps.apple.com/us/app/productivity-league/id1498388638)
 
 Simply you register and match with your fellow maker and then start explaining what you are working on. At the end of the week review what went good or what went wrong and get the points accordingly. Week by week you built a trust and make this process more fun as a friend. 
-
+<!-- more -->
 Why this idea! 
 
 Obviously I have a problem of keeping promises to my side projects or ideas that trusted in me which can help to humanity.

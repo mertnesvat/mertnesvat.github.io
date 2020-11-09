@@ -10,7 +10,7 @@ Ideas are things that float around and seeking people with required affections t
 Instead of a `I have an idea!`, `Idea selected me!`
 
 Simple yet powerful thinking, forces you to see yourself as a prophet of your Idea and make you responsible to it! 
-
+<!-- more -->
 ## Why do I care?
 
 For a long time I intrigued to have a good product mindset or being able to build good mobile apps which creates a value for people. As a side project or full time project.  
