@@ -11,4 +11,5 @@ Let's say for 400 years I'll paint only cubist paintings. It would be amazing to
 Now let's think about other daily rituals like brushing your teeth or washing the dishes by hand. How we can make it so that we shape these experiences to what we like best! Like holding the brush at such an angle gives you the joy to clean all the stuff inside. Or brush type that you want hard/soft. 
 
 Maybe that's the purpose of journaling and meditation in a sense of constant improvement and iteration.
+
 <!-- more -->
