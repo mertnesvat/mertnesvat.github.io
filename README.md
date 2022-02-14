@@ -67,6 +67,7 @@ No matter your production or hosting setup, be sure to verify the `baseurl` opti
 
 ### 5. Pagination for sites with base urls
 
+
 If you are using a base url for your site, (for example, hosted on `https://username.github.io/dark-poole`) you have to make some changes to get jekyll-pagination to work correctly:
 
 In `_config.yml`, add this line:
