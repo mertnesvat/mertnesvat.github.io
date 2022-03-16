@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open-Form 
+title: Notebooks & Thinking Models 
 ---
 ## What is common in notebook of Da Vinci, Einstein, Marcus Aurelius?
 
