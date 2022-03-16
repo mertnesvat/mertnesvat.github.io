@@ -10,11 +10,10 @@ Books, biographies, inventions are not even close because they are the end goal 
 
 So what does all the notebooks which was written by interesting people have in common, they have trace of their thinking models of the owner. 
 
-And to me this interesitng way of thinking is so much important than the end result...
+And to me the way these interesting people think is more valuable then what they produced. Because if we can think the way they think we might have different angles to the problems we are facing. 
 
+It's maybe obvious for some people but for me I just recently realised interesting point from Einsteins notebook is that he approaches science as an art in some places and sometimes personalise scientific items as if they have characters and emotions.
 
-
-
-
+Since I'm a software developer it was interesting idea to apply it to the code I wrote even in the commit massages which turned out to be fun activity. I have now many shy classes who knows the boundaries and thinks about his purpose in life(cycle) ( loose coupled )
 <!-- more -->
 
