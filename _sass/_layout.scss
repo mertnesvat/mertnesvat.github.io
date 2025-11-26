@@ -14,3 +14,12 @@ footer {
   margin-top: var(--spacer-3);
   margin-bottom: var(--spacer-3);
 }
+
+// Profile photo
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: var(--spacer-2);
+}
