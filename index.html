@@ -3,41 +3,13 @@ layout: default
 title: Home
 ---
 
-<div class="intro">
-  <p>Welcome to my site.</p>
+<div class="landing">
+  <img src="{{ '/assets/profile-picture/mert-profile.png' | relative_url }}" alt="Mert Nesvat" class="landing-photo">
+  <h1 class="landing-title">Hey, I'm Mert</h1>
+  <p class="landing-tagline">Indie app developer based in London.<br>Building meditation apps & tinkering with hardware.</p>
+  <div class="landing-links">
+    <a href="https://twitter.com/mertnesvat">Twitter</a>
+    <a href="mailto:mertnesvat@gmail.com">Email</a>
+    <a href="{{ '/about' | relative_url }}">About</a>
+  </div>
 </div>
-
-<!-- Blog posts hidden for now
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-    {% if post.content contains "<!-- more -->" %}
-      {{ post.content | split:"<!-- more -->" | first % }}
-      <p><a href="{{ post.url }}"> ... </a></p>
-    {% else %}
-      {{ post.content }}
-    {% endif %}
-  </article>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
--->
